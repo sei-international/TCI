@@ -1,0 +1,204 @@
+Country code,Country name,Cereal import dependency ratio
+ABW,Aruba,20.9
+AFG,Afghanistan,
+AGO,Angola,54.6
+ALB,Albania,45.4
+ANT,Netherlands Antilles,100.2
+ARE,United Arab Emirates,140
+ARG,Argentina,0.4
+ARM,Armenia,57.1
+ATG,Antigua and Barbuda,99.2
+AUS,Australia,3.1
+AUT,Austria,27.7
+AZE,Azerbaijan,37.8
+BDI,Burundi,24.9
+BEL,Belgium,135.8
+BEN,Benin,18.6
+BFA,Burkina Faso,8.4
+BGD,Bangladesh,8.4
+BGR,Bulgaria,9
+BHR,Bahrain,
+BHS,Bahamas,99.3
+BIH,Bosnia and Herzegovina,37.1
+BLR,Belarus,7.1
+BLZ,Belize,30.3
+BMU,Bermuda,100
+BOL,Bolivia,24.2
+BRA,Brazil,14.2
+BRB,Barbados,111.8
+BRN,Brunei Darussalam,98.4
+BTN,Bhutan,
+BVT,Bouvet Island,90.1
+BWA,Botswana,
+CAF,Central African Republic,19.4
+CAN,Canada,13.3
+CHE,Switzerland,53.9
+CHL,Chile,52.1
+CHN,China,2.2
+CIV,Cote d'Ivoire,58.8
+CMR,Cameroon,32.6
+COD,Democratic Republic of the Congo,38.6
+COG,Congo,90.2
+COL,Colombia,59.4
+COM,Comoros,73.9
+CPV,Cape Verde,94.3
+CRI,Costa Rica,94.9
+CUB,Cuba,76.4
+CYM,Cayman Islands,
+CYP,Cyprus,93.7
+CZE,Czech Republic,9.5
+DEU,Germany,22.1
+DJI,Djibouti,100
+DMA,Dominica,98.2
+DNK,Denmark,17.1
+DOM,Dominican Republic,74.6
+DZA,Algeria,70.7
+ECU,Ecuador,36.5
+EGY,Egypt,35.5
+ERI,Eritrea,58.6
+ESP,Spain,40.8
+EST,Estonia,20.9
+ETH,Ethiopia,10.1
+FIN,Finland,8.1
+FJI,Fiji,127.5
+FRA,France,9.1
+FRO,Faroe Islands,
+FSM,"Micronesia, Federated States of",
+GAB,Gabon,83.3
+GBR,United Kingdom,21
+GEO,Georgia,67.1
+GHA,Ghana,30.6
+GIN,Guinea,14.5
+GMB,Gambia,45.9
+GNB,Guinea-Bissau,27.3
+GNQ,Equatorial Guinea,
+GRC,Greece,31.6
+GRD,Grenada,129
+GTM,Guatemala,49.2
+GUY,Guyana,33.5
+HKG,Hong Kong,
+HND,Honduras,52.2
+HRV,Croatia,9
+HTI,Haiti,58.6
+HUN,Hungary,5.2
+IDN,Indonesia,10.8
+IND,India,0.5
+IRL,Ireland,42.3
+IRN,Iran (Islamic Republic of),32.6
+IRQ,Iraq,61.5
+ISL,Iceland,100.1
+ISR,Israel,94.3
+ITA,Italy,40.6
+JAM,Jamaica,102.3
+JOR,Jordan,100.1
+JPN,Japan,76.8
+KAZ,Kazakhstan,3
+KEN,Kenya,36.1
+KGZ,Kyrgyzstan,25.4
+KHM,Cambodia,1.4
+KIR,Kiribati,100
+KNA,Saint Kitts and Nevis,100.1
+KOR,"Korea, Republic of",73.2
+KWT,Kuwait,102.4
+LAO,Lao People's Democratic Republic,1.9
+LBN,Lebanon,88.5
+LBR,Liberia,63.6
+LBY,Libyan Arab Jamahiriya,91.8
+LCA,Saint Lucia,100.9
+LIE,Liechtenstein,
+LKA,Sri Lanka,34.3
+LSO,Lesotho,84.8
+LTU,Lithuania,14.1
+LUX,Luxembourg,60.4
+LVA,Latvia,40
+MAC,Macau,
+MAR,Morocco,53.6
+MCO,Monaco,
+MDA,Republic of Moldova,8.8
+MDG,Madagascar,9.2
+MDV,Maldives,99.7
+MEX,Mexico,34.2
+MHL,Marshall Islands,
+MKD,The former Yugoslav Republic of Macedonia,28.9
+MLI,Mali,6.1
+MLT,Malta,107.7
+MMR,Burma,0.6
+MNE,Montenegro,94.7
+MNG,Mongolia,56.1
+MOZ,Mozambique,30.5
+MRT,Mauritania,75
+MSR,Montserrat,
+MUS,Mauritius,110.1
+MWI,Malawi,6.4
+MYS,Malaysia,79.6
+NAM,Namibia,64.8
+NCL,New Caledonia,92.6
+NER,Niger,7
+NGA,Nigeria,14.5
+NIC,Nicaragua,38.5
+NLD,Netherlands,108.2
+NOR,Norway,37.9
+NPL,Nepal,3.2
+NZL,New Zealand,35.9
+OMN,Oman,
+PAK,Pakistan,5.6
+PAN,Panama,70
+PER,Peru,48.7
+PHL,Philippines,21.8
+PLW,Palau,
+PNG,Papua New Guinea,96.5
+POL,Poland,9.5
+PRI,Puerto Rico,
+PRK,"Korea, Democratic People's Republic of",15.2
+PRT,Portugal,82.6
+PRY,Paraguay,12
+PSE,Palestine,96.1
+PYF,French Polynesia,100
+QAT,Qatar,
+ROU,Romania,14.8
+RUS,Russia,1.7
+RWA,Rwanda,21.9
+SAU,Saudi Arabia,82.9
+SDN,Sudan,
+SEN,Senegal,55
+SGP,Singapore,
+SLB,Solomon Islands,95.9
+SLE,Sierra Leone,27.9
+SLV,El Salvador,53.7
+SMR,San Marino,
+SOM,Somalia,74.9
+SRB,Serbia,1
+STP,Sao Tome and Principe,84.9
+SUR,Suriname,30.3
+SVK,Slovakia,16.2
+SVN,Slovenia,56.1
+SWE,Sweden,12.8
+SWZ,Swaziland,79.3
+SYC,Seychelles,100.1
+SYR,Syrian Arab Republic,49.1
+TCD,Chad,8.4
+TGO,Togo,16.2
+THA,Thailand,10.7
+TJK,Tajikistan,49.5
+TKM,Turkmenistan,9.1
+TLS,Timor-Leste,17.8
+TON,Tonga,
+TTO,Trinidad and Tobago,115.7
+TUN,Tunisia,60.2
+TUR,Turkey,13.8
+TWN,Taiwan,85.2
+TZA,United Republic of Tanzania,13.8
+UGA,Uganda,17.7
+UKR,Ukraine,1
+URY,Uruguay,16.4
+USA,United States,2.9
+UZB,Uzbekistan,16.1
+VCT,Saint Vincent and the Grenadines,188
+VEN,Venezuela,48.4
+VNM,Viet Nam,96.4
+VUT,Vanuatu,101.4
+WLF,Wallis and Futuna Islands,7.9
+YEM,Yemen,82.5
+ZAF,South Africa,19.3
+ZMB,Zambia,4.9
+ZWE,Zimbabwe,52.2

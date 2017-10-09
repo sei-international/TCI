@@ -1,0 +1,204 @@
+Country code,Country name,Military expenditure (% of GDP)
+ABW,Aruba,
+AFG,Afghanistan,6.3
+AGO,Angola,4.8
+ALB,Albania,1.3
+ANT,Netherlands Antilles,
+ARE,United Arab Emirates,
+ARG,Argentina,0.9
+ARM,Armenia,4
+ATG,Antigua and Barbuda,
+AUS,Australia,1.6
+AUT,Austria,0.8
+AZE,Azerbaijan,4.7
+BDI,Burundi,2.3
+BEL,Belgium,1
+BEN,Benin,1
+BFA,Burkina Faso,1.4
+BGD,Bangladesh,1.2
+BGR,Bulgaria,1.6
+BHR,Bahrain,3.9
+BHS,Bahamas,
+BIH,Bosnia and Herzegovina,0.9
+BLR,Belarus,1.3
+BLZ,Belize,1
+BMU,Bermuda,
+BOL,Bolivia,1.5
+BRA,Brazil,1.4
+BRB,Barbados,
+BRN,Brunei Darussalam,2.5
+BTN,Bhutan,
+BVT,Bouvet Island,2
+BWA,Botswana,
+CAF,Central African Republic,
+CAN,Canada,1
+CHE,Switzerland,0.8
+CHL,Chile,1.9
+CHN,China,2
+CIV,Cote d'Ivoire,
+CMR,Cameroon,1.3
+COD,Democratic Republic of the Congo,2.3
+COG,Congo,
+COL,Colombia,3.4
+COM,Comoros,
+CPV,Cape Verde,0.5
+CRI,Costa Rica,0
+CUB,Cuba,
+CYM,Cayman Islands,
+CYP,Cyprus,2.1
+CZE,Czech Republic,1.1
+DEU,Germany,1.4
+DJI,Djibouti,
+DMA,Dominica,
+DNK,Denmark,1.4
+DOM,Dominican Republic,0.6
+DZA,Algeria,4.8
+ECU,Ecuador,1.7
+EGY,Egypt,1.7
+ERI,Eritrea,
+ESP,Spain,0.9
+EST,Estonia,2
+ETH,Ethiopia,0.7
+FIN,Finland,1.2
+FJI,Fiji,1.3
+FRA,France,2.2
+FRO,Faroe Islands,
+FSM,"Micronesia, Federated States of",
+GAB,Gabon,1.3
+GBR,United Kingdom,2.3
+GEO,Georgia,2.8
+GHA,Ghana,0.6
+GIN,Guinea,
+GMB,Gambia,
+GNB,Guinea-Bissau,
+GNQ,Equatorial Guinea,
+GRC,Greece,2.4
+GRD,Grenada,
+GTM,Guatemala,0.5
+GUY,Guyana,1.1
+HKG,Hong Kong,
+HND,Honduras,1.2
+HRV,Croatia,1.6
+HTI,Haiti,0
+HUN,Hungary,0.9
+IDN,Indonesia,0.9
+IND,India,2.5
+IRL,Ireland,0.5
+IRN,Iran (Islamic Republic of),
+IRQ,Iraq,3.6
+ISL,Iceland,
+ISR,Israel,5.6
+ITA,Italy,1.6
+JAM,Jamaica,0.8
+JOR,Jordan,3.5
+JPN,Japan,1
+KAZ,Kazakhstan,1.3
+KEN,Kenya,1.9
+KGZ,Kyrgyzstan,3.3
+KHM,Cambodia,1.6
+KIR,Kiribati,
+KNA,Saint Kitts and Nevis,
+KOR,"Korea, Republic of",2.8
+KWT,Kuwait,3.2
+LAO,Lao People's Democratic Republic,
+LBN,Lebanon,4.4
+LBR,Liberia,0.7
+LBY,Libyan Arab Jamahiriya,
+LCA,Saint Lucia,
+LIE,Liechtenstein,
+LKA,Sri Lanka,2.8
+LSO,Lesotho,2
+LTU,Lithuania,0.8
+LUX,Luxembourg,0.5
+LVA,Latvia,1
+MAC,Macau,1.2
+MAR,Morocco,3.8
+MCO,Monaco,
+MDA,Republic of Moldova,0.3
+MDG,Madagascar,0.5
+MDV,Maldives,
+MEX,Mexico,0.6
+MHL,Marshall Islands,
+MKD,The former Yugoslav Republic of Macedonia,
+MLI,Mali,1.4
+MLT,Malta,0.6
+MMR,Burma,4.5
+MNE,Montenegro,1.5
+MNG,Mongolia,
+MOZ,Mozambique,
+MRT,Mauritania,4
+MSR,Montserrat,
+MUS,Mauritius,0.2
+MWI,Malawi,1.4
+MYS,Malaysia,1.5
+NAM,Namibia,3.3
+NCL,New Caledonia,
+NER,Niger,
+NGA,Nigeria,1
+NIC,Nicaragua,0.8
+NLD,Netherlands,1.3
+NOR,Norway,1.4
+NPL,Nepal,1.3
+NZL,New Zealand,1
+OMN,Oman,11.3
+PAK,Pakistan,3
+PAN,Panama,0
+PER,Peru,1.4
+PHL,Philippines,1.3
+PLW,Palau,
+PNG,Papua New Guinea,0.5
+POL,Poland,1.8
+PRI,Puerto Rico,
+PRK,"Korea, Democratic People's Republic of",
+PRT,Portugal,2.2
+PRY,Paraguay,1.6
+PSE,Palestine,
+PYF,French Polynesia,
+QAT,Qatar,
+ROU,Romania,1.3
+RUS,Russia,4.1
+RWA,Rwanda,1.1
+SAU,Saudi Arabia,9.3
+SDN,Sudan,
+SEN,Senegal,1.5
+SGP,Singapore,3.4
+SLB,Solomon Islands,
+SLE,Sierra Leone,0.6
+SLV,El Salvador,0.8
+SMR,San Marino,
+SOM,Somalia,
+SRB,Serbia,2.1
+STP,Sao Tome and Principe,
+SUR,Suriname,
+SVK,Slovakia,1
+SVN,Slovenia,1.2
+SWE,Sweden,1.2
+SWZ,Swaziland,2.9
+SYC,Seychelles,1
+SYR,Syrian Arab Republic,
+TCD,Chad,
+TGO,Togo,
+THA,Thailand,1.50845903825319
+TJK,Tajikistan,
+TKM,Turkmenistan,
+TLS,Timor-Leste,0.4
+TON,Tonga,
+TTO,Trinidad and Tobago,
+TUN,Tunisia,2
+TUR,Turkey,2.3
+TWN,Taiwan,2.2
+TZA,United Republic of Tanzania,1.2
+UGA,Uganda,2.2
+UKR,Ukraine,3
+URY,Uruguay,1.9
+USA,United States,3.8
+UZB,Uzbekistan,
+VCT,Saint Vincent and the Grenadines,
+VEN,Venezuela,1.4
+VNM,Viet Nam,
+VUT,Vanuatu,
+WLF,Wallis and Futuna Islands,2.3
+YEM,Yemen,2.9
+ZAF,South Africa,1.2
+ZMB,Zambia,1.7
+ZWE,Zimbabwe,3.4
