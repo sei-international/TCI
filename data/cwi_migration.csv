@@ -1,0 +1,216 @@
+"from","from_iso","migration_cwi"
+"Afghanistan","AFG",0.582658705
+"Albania","ALB",0.332708616
+"Algeria","DZA",0.332497303
+"American Samoa","ASM",0
+"Andorra","AND",0
+"Angola","AGO",0.515639404
+"Antigua and Barbuda","ATG",0.410103328
+"Argentina","ARG",0.262239067
+"Armenia","ARM",0.29721401
+"Aruba","ABW",0
+"Australia","AUS",0.238866553
+"Austria","AUT",0.194990141
+"Azerbaijan","AZE",0.292860758
+"Bahamas, The","BHS",0.3484318
+"Bahrain","BHR",0.338698428
+"Bangladesh","BGD",0.495135268
+"Barbados","BRB",0.351954265
+"Belarus","BLR",0.230041615
+"Belgium","BEL",0.205225833
+"Belize","BLZ",0.293049515
+"Benin","BEN",0.517243631
+"Bermuda","BMU",0
+"Bhutan","BTN",0.422441886
+"Bolivia","BOL",0.378167921
+"Bosnia and Herzegovina","BIH",0.2722268
+"Botswana","BWA",0.421447167
+"Brazil","BRA",0.295596157
+"Brunei Darussalam","BRN",0.302437937
+"Bulgaria","BGR",0.223077829
+"Burkina Faso","BFA",0.533261358
+"Burundi","BDI",0.589934385
+"Cambodia","KHM",0.49951571
+"Cameroon","CMR",0.474332679
+"Canada","CAN",0.233574656
+"Cape Verde","CPV",0.349308351
+"Cayman Islands","CYM",0
+"Central African Republic","CAF",0.578744904
+"Chad","TCD",0.544175509
+"Channel Islands","",0
+"Chile","CHL",0.282457473
+"China","CHN",0.303023198
+"Colombia","COL",0.29815216
+"Comoros","COM",0.460379667
+"Congo, Dem. Rep.","COD",0.571658773
+"Congo, Rep.","COG",0.488770024
+"Costa Rica","CRI",0.342986709
+"Côte d'Ivoire","CIV",0.502742155
+"Croatia","HRV",0.2074084
+"Cuba","CUB",0.386899275
+"Cyprus","CYP",0.226918286
+"Czech Republic","CZE",0.167790564
+"Denmark","DNK",0.144967624
+"Djibouti","DJI",0.452671246
+"Dominica","DMA",0.40126814
+"Dominican Republic","DOM",0.398649596
+"Ecuador","ECU",0.316319862
+"Egypt, Arab Rep.","EGY",0.283767746
+"El Salvador","SLV",0.383533774
+"Equatorial Guinea","GNQ",0.425928626
+"Eritrea","ERI",0.496463053
+"Estonia","EST",0.252987409
+"Ethiopia","ETH",0.547400573
+"Faeroe Islands","FRO",0
+"Fiji","FJI",0.421671115
+"Finland","FIN",0.189396599
+"France","FRA",0.150847644
+"French Polynesia","PYF",0
+"Gabon","GAB",0.354821068
+"Gambia, The","GMB",0.496256117
+"Georgia","GEO",0.304407025
+"Germany","DEU",0.15008984
+"Ghana","GHA",0.472997101
+"Gibraltar","GIB",0
+"Greece","GRC",0.246449197
+"Greenland","GRL",0
+"Grenada","GRD",0.355232752
+"Guam","GUM",0
+"Guatemala","GTM",0.348952548
+"Guinea","GIN",0.545373092
+"Guinea-Bissau","GNB",0.535389329
+"Guyana","GUY",0.401113015
+"Haiti","HTI",0.536118523
+"Honduras","HND",0.402424291
+"Hong Kong, China","HKG",0
+"Hungary","HUN",0.211185316
+"Iceland","ISL",0.235824899
+"India","IND",0.427243396
+"Indonesia","IDN",0.335011941
+"Iran, Islamic Rep.","IRN",0.287427476
+"Iraq","IRQ",0.450231358
+"Ireland","IRL",0.193795309
+"Isle of Man","IMN",0
+"Israel","ISR",0.255671359
+"Italy","ITA",0.211710304
+"Jamaica","JAM",0.361660893
+"Japan","JPN",0.28963038
+"Jordan","JOR",0.304453064
+"Kazakhstan","KAZ",0.28386346
+"Kenya","KEN",0.530444735
+"Kiribati","KIR",0
+"Korea, Dem. Rep.","PRK",0.418956817
+"Korea, Rep.","KOR",0.347391189
+"Kosovo","KOS",0
+"Kuwait","KWT",0.321234027
+"Kyrgyz Republic","KGZ",0.354819055
+"Lao PDR","LAO",0.4813817
+"Latvia","LVA",0.262947089
+"Lebanon","LBN",0.350353473
+"Lesotho","LSO",0.478677282
+"Liberia","LBR",0.574009116
+"Libya","LBY",0.365473417
+"Liechtenstein","LIE",0
+"Lithuania","LTU",0.257202643
+"Luxembourg","LUX",0.129131919
+"Macao, China","MAC",0
+"Macedonia, FYR","MKD",0.302812714
+"Madagascar","MDG",0.538860332
+"Malawi","MWI",0.491810578
+"Malaysia","MYS",0.309853932
+"Maldives","MDV",0.397870661
+"Mali","MLI",0.544416313
+"Malta","MLT",0.255508018
+"Marshall Islands","MHL",0
+"Mauritania","MRT",0.465284438
+"Mauritius","MUS",0.339225937
+"Mayotte","MYT",0
+"Mexico","MEX",0.289546763
+"Micronesia, Fed. Sts.","FSM",0.482598445
+"Moldova","MDA",0.322664458
+"Monaco","MCO",0.188172353
+"Mongolia","MNG",0.399306925
+"Montenegro","MNE",0
+"Morocco","MAR",0.364708027
+"Mozambique","MOZ",0.513186923
+"Myanmar","MMR",0.450518179
+"Namibia","NAM",0.427028075
+"Nepal","NPL",0.477594163
+"Netherlands","NLD",0.19057085
+"Netherlands Antilles","ANT",0
+"New Caledonia","NCL",0
+"New Zealand","NZL",0.25937051
+"Nicaragua","NIC",0.375611552
+"Niger","NER",0.529114441
+"Nigeria","NGA",0.502678199
+"Northern Mariana Islands","MNP",0
+"Norway","NOR",0.161815828
+"Oman","OMN",0.320837551
+"Pakistan","PAK",0.430075243
+"Palau","PLW",0
+"Panama","PAN",0.339105111
+"Papua New Guinea","PNG",0.5018407
+"Paraguay","PRY",0.344765468
+"Peru","PER",0.369894385
+"Philippines","PHL",0.381765514
+"Poland","POL",0.149939918
+"Portugal","PRT",0.254607569
+"Puerto Rico","PRI",0
+"Qatar","QAT",0.293961871
+"Romania","ROU",0.25070976
+"Russian Federation","RUS",0.289435913
+"Rwanda","RWA",0.520745874
+"Samoa","WSM",0
+"San Marino","SMR",0
+"São Tomé and Principe","STP",0.502075232
+"Saudi Arabia","SAU",0.341458032
+"Senegal","SEN",0.472086175
+"Serbia","SRB",0.334148658
+"Seychelles","SYC",0.372139737
+"Sierra Leone","SLE",0.589453921
+"Singapore","SGP",0.352335547
+"Slovak Republic","SVK",0.187754477
+"Slovenia","SVN",0.170795336
+"Solomon Islands","SLB",0.54393412
+"Somalia","SOM",0.619269074
+"South Africa","ZAF",0.365560843
+"Spain","ESP",0.213517562
+"Sri Lanka","LKA",0.331939377
+"St. Kitts and Nevis","KNA",0.397369798
+"St. Lucia","LCA",0.303784368
+"St. Vincent and the Grenadines","VCT",0.361696647
+"Sudan","SDN",0.526867847
+"Suriname","SUR",0.305608387
+"Swaziland","SWZ",0.411058237
+"Sweden","SWE",0.205265765
+"Switzerland","CHE",0.155764363
+"Syrian Arab Republic","SYR",0.349158994
+"Tajikistan","TJK",0.398371714
+"Tanzania","TZA",0.535534539
+"Thailand","THA",0.308106181
+"Timor-Leste","TLS",0.534921927
+"Togo","TGO",0.575294446
+"Tonga","TON",0.416826951
+"Trinidad and Tobago","TTO",0.302344053
+"Tunisia","TUN",0.317379887
+"Turkey","TUR",0.277430808
+"Turkmenistan","TKM",0.293216469
+"Turks and Caicos Islands","TCA",0
+"Tuvalu","TUV",0
+"Uganda","UGA",0.521598036
+"Ukraine","UKR",0.262116511
+"United Arab Emirates","ARE",0.297816031
+"United Kingdom","GBR",0.164744418
+"United States","USA",0.199021375
+"Uruguay","URY",0.273960494
+"Uzbekistan","UZB",0.304348356
+"Vanuatu","VUT",0.447106462
+"Venezuela, RB","VEN",0.284910779
+"Vietnam","VNM",0.381388268
+"Virgin Islands (U.S.)","VIR",0
+"West Bank and Gaza","PSE",0
+"Yemen, Rep.","YEM",0.527486219
+"Zambia","ZMB",0.4972256
+"Zimbabwe","ZWE",0.472287007
+"Other South",NA,0
+"Other North",NA,0

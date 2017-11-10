@@ -75,6 +75,6 @@ yhs <- rep(pp[3] +  (pp[4]-pp[3])*hpc, nbins+1)
 rect(xs[-length(xs)], ys, xs[-1], yhs, col = c(grey(.9),cols[1:nbins + 2]), border = 'white')
 text((xs + .5*diff(xs))[-length(xs)], y =mean(c(ys, yhs)), c('No Data', round(brks2 + diff(brks2), 2)[-length(brks2)]))
 
-text( xs[1], mean(yhs) + (pp[4]-pp[3])*hpc*.5, 'TCI Index of exposure to transnational impacts of climate change', pos = 4, cex = 1.1)
+text( xs[1], mean(yhs) + (pp[4]-pp[3])*hpc*.5, 'TCI Index of exposure to transnational climate impacts', pos = 4, cex = 1.1)
 
 dev.off()

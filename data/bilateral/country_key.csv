@@ -1,0 +1,286 @@
+name,iso
+aruba,ABW
+afghanistan,AFG
+angola,AGO
+albania,ALB
+netherlands antilles,ANT
+netherlands antilles ,ANT
+united arab emirates,ARE
+argentina,ARG
+armenia,ARM
+antigua and barbuda,ATG
+australia,AUS
+austria,AUT
+azerbaijan,AZE
+burundi,BDI
+belgium,BEL
+benin,BEN
+burkina faso,BFA
+bangladesh,BGD
+bulgaria,BGR
+bahrain,BHR
+bahamas,BHS
+"bahamas, the",BHS
+bosnia and herzegovina,BIH
+belarus,BLR
+belize,BLZ
+bermuda,BMU
+bolivia,BOL
+"bolivia, plurinational state of",BOL
+moldova,MDA
+plurinational state of bolivia ,BOL
+brazil,BRA
+barbados,BRB
+brunei darussalam,BRN
+bhutan,BTN
+botswana,BWA
+central african republic,CAF
+canada,CAN
+switzerland,CHE
+chile,CHL
+china,CHN
+"macao, china",MAC
+cote d'ivoire,CIV
+côte d' ivoire,CIV
+côte d'ivoire,CIV
+cameroon,CMR
+democratic republic of congo,COD
+democratic republic of the congo,COD
+congo,COG
+"congo, rep.",COG
+colombia,COL
+comoros,COM
+cape verde,CPV
+costa rica,CRI
+cuba,CUB
+cayman islands,CYM
+cyprus,CYP
+czech,CZE
+czech republic,CZE
+germany,DEU
+djibouti,DJI
+dominica,DMA
+denmark,DNK
+dominican republic,DOM
+algeria,DZA
+ecuador,ECU
+egypt,EGY
+"egypt, arab rep.",EGY
+eritrea,ERI
+spain,ESP
+estonia,EST
+ethiopia,ETH
+finland,FIN
+fiji,FJI
+france,FRA
+faeroe islands,FRO
+faroe islands,FRO
+"micronesia, fed. sts.",FSM
+"micronesia, federated states of",FSM
+gabon,GAB
+united kingdom,GBR
+georgia,GEO
+ghana,GHA
+guinea,GIN
+gambia,GMB
+"gambia, the",GMB
+guinea-bissau,GNB
+equatorial guinea,GNQ
+greece,GRC
+grenada,GRD
+guatemala,GTM
+guyana,GUY
+hong kong,HKG
+"hong kong, china",HKG
+honduras,HND
+croatia,HRV
+haiti,HTI
+hungary,HUN
+indonesia,IDN
+india,IND
+ireland,IRL
+iran,IRN
+iran (islamic republic of),IRN
+"iran, islamic republic of",IRN
+iraq,IRQ
+iceland,ISL
+israel,ISR
+italy,ITA
+jamaica,JAM
+jordan,JOR
+japan,JPN
+kazak,KAZ
+kazakhstan,KAZ
+kenya,KEN
+kyrgyz republic,KGZ
+kyrgyzstan,KGZ
+cambodia,KHM
+kiribati,KIR
+saint kitts and nevis,KNA
+st. kitts and nevis,KNA
+korea,KOR
+"korea, rep.",KOR
+"korea, republic of",KOR
+kuwait,KWT
+lao pdr,LAO
+lao people's dem. rep.,LAO
+lao people's democratic rep.,LAO
+lao people's democratic republic,LAO
+lebanon,LBN
+liberia,LBR
+libya,LBY
+libya ,LBY
+libyan arab jamahiriya,LBY
+saint lucia,LCA
+st. lucia,LCA
+liechtenstein,LIE
+sri lanka,LKA
+lesotho,LSO
+lithuania,LTU
+luxembourg,LUX
+latvia,LVA
+morocco,MAR
+monaco,MCO
+moldova,MDA
+"moldova, republic of",MDA
+republic of moldova,MDA
+madagascar,MDG
+maldives,MDV
+mexico,MEX
+marshall islands,MHL
+macedonia,MKD
+the former yugoslav republic of macedonia,MKD
+the fyr of macedonia,MKD
+yugoslavia (former),MKD
+mali,MLI
+malta,MLT
+burma,MMR
+myanmar,MMR
+montenegro,MNE
+mongolia,MNG
+mozambique,MOZ
+mauritania,MRT
+mauritius,MUS
+malawi,MWI
+malaysia,MYS
+american samoa,ASM
+andorra,AND
+anguilla,AIA
+british indian ocean,IOT
+british virgin islands,VGB
+channel islands,
+christmas island,CXR
+"congo, dem. rep.",COD
+"congo, democratic rep. of",COD
+cook islands,COK
+demogratic republic of the congo,COD
+gibraltar,GIB
+greenland,GRL
+guam,GUM
+guernsey,GGY
+"iran, islamic rep.",IRN
+islamic republic of iran,IRN
+isle of man,IMN
+jersey,JEY
+kosovo,KOS
+"macao, china",MAC
+"macedonia, fyr",MKD
+mayotte,MYT
+nauru,NRU
+niue,NIU
+northern mariana islands,MNP
+pitcairn,PCN
+reunion,RUE
+saint helena,SHN
+samoa,WSM
+serbia and montenegro,
+tokelau,TKL
+turks and caicos islands,TCA
+tuvalu,TUV
+us virgin islands,VIR
+virgin islands (u.s.),VIR
+west bank and gaza,PSE
+namibia,NAM
+new caledonia,NCL
+niger,NER
+nigeria,NGA
+nicaragua,NIC
+netherlands,NLD
+norway,NOR
+nepal,NPL
+new zealand,NZL
+oman,OMN
+pakistan,PAK
+panama,PAN
+peru,PER
+philippines,PHL
+palau,PLW
+papua new guinea,PNG
+poland,POL
+puerto rico,PRI
+"korea, dem. rep.",PRK
+"korea, democratic people's republic of",PRK
+portugal,PRT
+paraguay,PRY
+palestine,PSE
+state of palestine,PSE
+french polynesia,PYF
+qatar,QAT
+romania,ROU
+russia,RUS
+russian federation,RUS
+rwanda,RWA
+saudi arabia,SAU
+sudan,SDN
+senegal,SEN
+singapore,SGP
+solomon islands,SLB
+sierra leone,SLE
+el salvador,SLV
+san marino,SMR
+somalia,SOM
+serbia,SRB
+são tomé and principe,STP
+sao tome and principe,STP
+suriname,SUR
+slovak republic,SVK
+slovakia,SVK
+slovenia,SVN
+sweden,SWE
+swaziland,SWZ
+seychelles,SYC
+syrian arab republic,SYR
+chad,TCD
+togo,TGO
+thailand,THA
+tajikistan,TJK
+turkmenistan,TKM
+timor-leste,TLS
+tonga,TON
+trinidad and tobago,TTO
+tunisia,TUN
+turkey,TUR
+taiwan,TWN
+taiwan province of china,TWN
+tanzania,TZA
+united rep. of tanzania,TZA
+united republic of tanzania,TZA
+uganda,UGA
+ukraine,UKR
+uruguay,URY
+united states,USA
+uzbekistan,UZB
+saint vincent and the grenadines,VCT
+st. vincent and the grenadines,VCT
+bolivarian republic of venezuela,VEN
+venezuela,VEN
+"venezuela, bolivarian rep. of",VEN
+"venezuela, rb",VEN
+viet nam,VNM
+vietnam,VNM
+vanuatu,VUT
+yemen,YEM
+"yemen, rep.",YEM
+south africa,ZAF
+zambia,ZMB
+zimbabwe,ZWE

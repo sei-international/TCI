@@ -214,11 +214,11 @@ dg <- sqrt(gain$res[,3])*2
 ig <- gain$res[,1]
 
 arrows((1:5+.1),itc + dtc ,(1:5+.1), itc -dtc, code = 3, angle = 90 , length = .1)
-points((1:5+.1),itc, pch = 21, lwd = 1, bg = 'grey')
-points((1:5+.1),itc, pch = 3, lwd = 2, col = 'grey')
+# points((1:5+.1),itc, pch = 21, lwd = 1, bg = 'grey')
+points((1:5+.1),itc, pch = 15, lwd = 2, col = 'black')
 
 arrows((1:5-.1),ig + dg , (1:5-.1), ig -dg, code = 3, angle = 90 , length = .1)
-points((1:5-.1),ig, pch =16, lwd = 2, col = 'grey')
+points((1:5-.1),ig, pch =16, lwd = 2, col = 'black')
 
 abline(0,0)
 legend('topright', legend = c('GaIN', 'TCI'), pch = c(16, 15, lwd = 2))
